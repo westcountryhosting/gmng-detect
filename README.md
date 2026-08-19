@@ -36,6 +36,11 @@ No third-party dependencies — standard library only. Per-OS collection uses na
 The uploaded payload is your hardware inventory. It is held on gmng.co.uk for 15 minutes
 until your browser claims it, then deleted. See https://gmng.co.uk/privacy.
 
+## Code signing
+
+Windows release binaries are code-signed with a certificate provided free of charge by
+[SignPath Foundation](https://signpath.org/); signing keys are managed by SignPath.
+
 ## Licence
 
 MIT © Westcountry Hosting Ltd
